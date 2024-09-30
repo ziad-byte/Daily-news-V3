@@ -1,0 +1,22 @@
+{
+  "https://example.com/articles": {
+    "page_name": "title",
+    "article": "article",
+    "link": {
+      "tag": "a",
+      "attribute": "href"
+    },
+    "title": "h3",
+    "description": "p"
+  },
+  "https://anotherwebsite.com/news": {
+    "page_name": "title",
+    "article": "div",
+    "link": {
+      "tag": "a",
+      "attribute": "href"
+    },
+    "title": "h2",
+    "description": "span"
+  }
+}
